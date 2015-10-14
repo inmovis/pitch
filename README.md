@@ -3,7 +3,7 @@
 
 A web platform that encourages the best practices for real estate agents therefore improving productivity. Inmovis helps you get listings, manage clients, turning leads into customers and get trained.
 
-*[Live version](inmovis.github.io/pitch)*
+*[Live version](https://inmovis.github.io/pitch)*
 
 ##Team
 
